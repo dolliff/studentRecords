@@ -1,0 +1,27 @@
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\bin\Debug\studentRecords.exe.config
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords.csprojResolveAssemblyReference.cache
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\MainWindow.baml
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\MainWindow.g.cs
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\App.g.cs
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords_MarkupCompile.cache
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords.g.resources
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords.Properties.Resources.resources
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords.csproj.GenerateResource.Cache
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\bin\Debug\studentRecords.exe
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\bin\Debug\studentRecords.pdb
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords.exe
+c:\users\dolliff\documents\visual studio 2012\Projects\studentRecords\studentRecords\obj\Debug\studentRecords.pdb
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\bin\Debug\studentRecords.exe.config
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords.exe
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords.pdb
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\bin\Debug\studentRecords.exe
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\bin\Debug\studentRecords.pdb
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords.csprojResolveAssemblyReference.cache
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\MainWindow.baml
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\MainWindow.g.cs
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\App.g.cs
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords_MarkupCompile.cache
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords.g.resources
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords.Properties.Resources.resources
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\studentRecords.csproj.GenerateResource.Cache
+E:\HND Computing 2013-2014\Unit 19\studentRecords\studentRecords\obj\Debug\GeneratedInternalTypeHelper.g.cs
